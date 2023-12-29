@@ -1,0 +1,5 @@
+public class main{
+int x=2;
+public static void main(String[] argd){
+main object1=new main();
+System.out.println(object1.x);
